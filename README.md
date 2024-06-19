@@ -6,4 +6,5 @@ Presenter: Minho Lee, Chung-Ang University
 
 
 
-Please click the link for my presentation video: (link)
+Please click the link for my presentation video: [link](https://youtu.be/-wTDFtCeUnA))
+
