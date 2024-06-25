@@ -10,3 +10,7 @@ Presenter: Minho Lee, Chung-Ang University
 
 Please click the link for my presentation video: [link](https://youtu.be/-wTDFtCeUnA)
 
+
+Supporting Figures for my poster: [link](https://github.com/thereexist/2024_physical_chemistry_summer_symposium/blob/main/Supporting_figures.pdf)
+
+
