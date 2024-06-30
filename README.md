@@ -7,8 +7,7 @@ Tittle: Transport Dynamics of Water Molecules nanoconfined between Phospholipid 
 Presenter: Minho Lee, Chung-Ang University
 
 
-
-Please click the link for my presentation video: [link](https://youtu.be/-wTDFtCeUnA)
+Please click the link for my presentation video: [link](https://youtu.be/gk0k4-YI8YI)
 
 
 - Supporting Figures for my poster: [link](https://github.com/thereexist/2024_physical_chemistry_summer_symposium/blob/main/Supporting_figures.pdf)
